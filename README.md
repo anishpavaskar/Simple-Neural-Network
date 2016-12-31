@@ -1,3 +1,7 @@
 # testrepo
+This project is a simple neural net-work that was created in python.The program creates an neural network that simulates the OR function with two inputs and one output.
 
-This project is about neural deep learning net works with diervativeitis and the integrals of the integrals of the integrals
+Here are the steps to run the program:
+1)Install Numpy
+2)Run program
+	
